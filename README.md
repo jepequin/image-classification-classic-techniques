@@ -1,4 +1,4 @@
-# Electrical Grid Stability Regression
+# Identification of Cracks and Potholes using classical Machine Learning Techniques
 This if the final project for the course Supervised Machine Learning : Classification, by Coursera (www.coursera.org/learn/supervised-machine-learning-classification). The goal of this project is to train several classical machine learning algorithms to predict the presence of cracks and/or potholes in road images.
 
 ## Description
