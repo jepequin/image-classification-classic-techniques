@@ -6,6 +6,7 @@ Poor road condition affects traffic safety. By capturing road information and im
 - Logistic Regression,
 - Support Vector Machines,
 - Ensemble Classifiers,
+
 we produce a pipeline for automatic defect detection. 
 
 We explore dimensionality reduction techniques (Histogram Of Gradients [2]) as a preprocessing step for some of the models. We also search through the parameter space to determine the best performing classifiers.
