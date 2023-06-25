@@ -1,0 +1,23 @@
+'formatting' : '%Y-%m-%d %H:%M:%S' # datetime printing format
+## Data augmentation
+'hog_bool' : false # calculate array of hog features
+'augmentation' : false # augment images (add noise, brighten) 
+## Label csv path
+'csv_path' : '../data/images/labels.csv' # can be generated with gen_csv.py
+## Data save paths (.npy is added after calling np.dump)
+'input_path' : '../data/input'
+'crack_path' : '../data/crack'
+'pothole_path' : '../data/pothole'
+# Model save paths
+'crackpipe_path' : '../results/crackpipe.sav'
+'holepipe_path' : '../results/holepipe.sav'
+'svmcrack_path' : '../results/svmcrack.sav'
+'svmhole_path' : '../results/svmhole.sav'
+'enscrack_path' : '../results/enscrack.sav'
+'enshole_path' : '../results/enshole.sav'
+# Data directory
+'data_dir' : '../data/images'
+# Results dir
+'result_dir' : '../results'
+# Visualize image
+'img_dir' : '916871_RS_290_290RS294095_17806' # used in visualize.py to plot masks, hog and original images 
