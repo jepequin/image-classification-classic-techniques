@@ -13,6 +13,7 @@ We explore dimensionality reduction techniques (Histogram Of Gradients [2]) as a
 
 ## Bibliography 
 [1] Passos, Bianka T.; Cassaniga, Mateus J.; Fernandes, Anita M. R. ; Medeiros, Kátya B. ; Comunello, Eros (2020), “Cracks and Potholes in Road Images”, Mendeley Data, V1, doi: 10.17632/t576ydh9v8.1
+
 [2] N. Dalal and B. Triggs, "Histograms of oriented gradients for human detection," 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05), San Diego, CA, USA, 2005, pp. 886-893 vol. 1, doi: 10.1109/CVPR.2005.177.
 
 ## Author
